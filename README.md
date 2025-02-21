@@ -14,14 +14,17 @@ Voice TaskMate is a smart virtual assistant with a Tkinter-based GUI that allows
 - 📌 Temporary Data Storage: Uses Python lists and dictionaries to store tasks dynamically.
 
 ## Technologies Used
-## 🛠 Technologies Used
 
-| Library              | Purpose                                  |
-|----------------------|------------------------------------------|
-| `Tkinter`           | GUI Development                          |
-| `SpeechRecognition` | Convert voice input to text              |
-| `pyttsx3`           | Text-to-speech conversion                |
-| `requests`          | Fetch real-time weather updates          |
-| `os`               | Open desktop applications                |
-| `time`             | Manage execution delays                  |
-
+| Library/Technology      | Purpose                                         |
+|------------------------|-------------------------------------------------|
+| `Tkinter`             | GUI development for interactive user interface  |
+| `PIL (Pillow)`        | Handling and processing images in GUI           |
+| `speech_recognition`  | Convert voice input to text                      |
+| `pyttsx3`             | Text-to-speech conversion                        |
+| `requests`            | Fetch real-time weather updates from API         |
+| `pytz`               | Handling time zones for accurate time reporting   |
+| `wikipedia`          | Fetch summaries from Wikipedia                    |
+| `pyjokes`            | Generate random jokes                             |
+| `webbrowser`         | Open web applications like YouTube, Google, etc.  |
+| `os`                 | Open system applications (Notepad, Calculator, etc.) |
+| `datetime`           | Handle and format date/time information           |
