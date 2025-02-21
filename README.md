@@ -99,8 +99,16 @@ git clone https://github.com/Bhoomigupta603/Voice-TaskMate.git
 
 
 
+
+
+
+
+
+
+
+
 ## 📞 Contact & Support  
 For any queries or suggestions, feel free to connect:  
-🌐 **GitHub**: [Your GitHub Profile](https://github.com/Bhoomigupta603)
+🌐 **GitHub**: [Bhoomi Gupta Github Profile](https://github.com/Bhoomigupta603)
 
 
