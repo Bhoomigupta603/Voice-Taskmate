@@ -40,7 +40,7 @@ git clone https://github.com/Bhoomigupta603/Voice-TaskMate.git
 ### Step 3: Run the Application
 - python GUI.py
 
-### How to Use Voice TaskMate
+## How to Use Voice TaskMate
 **1. Launch the App:** Run GUI.py to open the graphical interface.
 **2. Click the Microphone Button 🎤:** Speak a command like:
 - **🗂 "Add to do list: Buy groceries" →** Adds a new to-do item.
@@ -50,7 +50,7 @@ git clone https://github.com/Bhoomigupta603/Voice-TaskMate.git
 - **🖥 "Open Notepad" →** Opens the Notepad application.
 **3. Listen to the Response:** The system will process and reply using text-to-speech (TTS).
 
-### Result
+## Result
 ![voice_taskmate_name(a)](https://github.com/user-attachments/assets/17490699-b1e5-4ad9-aa06-0c97121c4f16)
 
 ![voice_taskmate_calculator_output](https://github.com/user-attachments/assets/787c86f5-7b98-4380-a865-1b444c1ee28c)
