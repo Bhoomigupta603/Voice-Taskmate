@@ -12,3 +12,13 @@ Voice TaskMate is a smart virtual assistant with a Tkinter-based GUI that allows
 - 🖥️ Open Desktop Applications: Launch common apps like Notepad, Calculator, etc.
 - 🔊 Text-to-Speech (TTS): Reads out responses using pyttsx3.
 - 📌 Temporary Data Storage: Uses Python lists and dictionaries to store tasks dynamically.
+
+## Technologies Used
+### Library	                       Purpose
+- Tkinter	                        - GUI Development
+- SpeechRecognition	              - Convert voice input to text
+- pyttsx3	                        - Text-to-speech conversion
+- requests                        - Fetch real-time weather updates
+- os	                            - Open desktop applications
+- time	                          - Manage execution delays
+
