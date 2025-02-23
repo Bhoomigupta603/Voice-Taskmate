@@ -4,14 +4,14 @@ Voice TaskMate is a smart virtual assistant with a Tkinter-based GUI that allows
 ![Screenshot 2024-12-03 133417](https://github.com/user-attachments/assets/87fd9f2e-183c-4fe4-bb66-5f5b76b37a88)
 
 ## Features
-- **🗣️ Voice Commands:** Perform multiple actions using voice input.
-- **🎨 Tkinter GUI:** User-friendly graphical interface for easy interaction.
-- **☁️ Real-Time Weather Updates:** Fetches current weather using an API.
-- **📋 To-Do List Management:** Add, delete, and view tasks.
-- **🏆 Motivational Quotes & Jokes:** Get inspired and entertained.
-- **🖥️ Open Desktop Applications:** Launch common apps like Notepad, Calculator, etc.
-- **🔊 Text-to-Speech (TTS):** Reads out responses using pyttsx3.
-- **📌 Temporary Data Storage:** Uses Python lists and dictionaries to store tasks dynamically.
+- **Voice Commands:** Perform multiple actions using voice input.
+- **Tkinter GUI:** User-friendly graphical interface for easy interaction.
+- **Real-Time Weather Updates:** Fetches current weather using an API.
+- **To-Do List Management:** Add, delete, and view tasks.
+- **Motivational Quotes & Jokes:** Get inspired and entertained.
+- **Open Desktop Applications:** Launch common apps like Notepad, Calculator, etc.
+- **Text-to-Speech (TTS):** Reads out responses using pyttsx3.
+- **Temporary Data Storage:** Uses Python lists and dictionaries to store tasks dynamically.
 
 ## Technologies Used
 
@@ -43,11 +43,11 @@ git clone https://github.com/Bhoomigupta603/Voice-TaskMate.git
 ## How to Use Voice TaskMate
 **1. Launch the App:** Run GUI.py to open the graphical interface.
 **2. Click the Microphone Button 🎤:** Speak a command like:
-- **🗂 "Add to do list: Buy groceries" →** Adds a new to-do item.
-- **🌦 "weather" →** Fetches real-time weather.
-- **🏆 "motivate me" →** Provides an inspirational quote.
-- **🎭 "Tell me a joke" →** Makes you laugh.
-- **🖥 "Open Notepad" →** Opens the Notepad application.
+- **"Add to do list: Buy groceries" →** Adds a new to-do item.
+- **"weather" →** Fetches real-time weather.
+- **"motivate me" →** Provides an inspirational quote.
+- **"Tell me a joke" →** Makes you laugh.
+- **"Open Notepad" →** Opens the Notepad application.
 **3. Listen to the Response:** The system will process and reply using text-to-speech (TTS).
 
 ## Result
@@ -107,7 +107,7 @@ git clone https://github.com/Bhoomigupta603/Voice-TaskMate.git
 
 
 
-## 📞 Contact & Support  
+## Contact & Support  
 For any queries or suggestions, feel free to connect:  
 🌐 **GitHub**: [Bhoomi Gupta Github Profile](https://github.com/Bhoomigupta603)
 
